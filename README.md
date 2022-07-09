@@ -3,7 +3,7 @@
 
 ### Java基础
 ### Redis
-- []()
+- [Redis哨兵集群搭建](./Redis/Redis哨兵集群搭建.md)
 ### K8S
 
 ### MySQL
